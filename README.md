@@ -10,3 +10,5 @@ This repository contains the source code of all the problems i practiced on hack
 04_Sets
 
 05_math
+
+06_itertools
